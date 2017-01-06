@@ -21,8 +21,7 @@ anuglar2 with es6 support. unit tests with jasmine.
 
 ## install
 
-`$ git clone git@github.com:borysn/spring-boot-angular2`
-
+`$ git clone repository URL
 ## build & run
 
 * `$ gradle clean build runAll`
