@@ -50,3 +50,5 @@ client/js/lib/
 client/typings/
 client/coverage/
 dist/
+
+CHANGELOG.md
